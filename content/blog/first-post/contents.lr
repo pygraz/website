@@ -1,4 +1,6 @@
-## title: Hello Website
+## title:
+
+Hello Website
 
 ## pub_date: 2023-12-05
 
@@ -6,4 +8,22 @@
 
 body:
 
-This is an example blog post. Not much here but that's not the point :)
+## This is an example blog post. Not much here but that's not the point :)
+
+## author: Thomas Aglassinger
+
+body:
+
+Die pyGRAZ-Webseite wird von einer dynamischen Django-Anwendung auf eine statisch generierte Seite umgestellt unter Verwendung des Lektor CMS. Dies beinhalte u.a. Umwandlung der Datenbankeinträge unserer Treffen seit 2008. Die liegen derzeit als JSON-Dateien vor und sollen am Ende Markdown-Dokumente sein.
+
+Das machen wir gemeinsam im Rahmen eines Coding-Dojos.
+
+Der Ablauf in bewährter Manier: Alle Teilnehmer nutzen den selben Computer, um die Aufgabe umzusetzen. Eine Person ist der Pilot, der programmiert. Eine andere Person nimmt die Rolle des Co-Piloten ein und unterstützt den Piloten beim Konzipieren und Designen. Nach 2 Minuten gibt es einen Wechsel: Der Pilot geht ins Publikum, der Co-Pilot wird zum Piloten und eine neue Person aus dem Publikum wird zum Co-Piloten. Damit ist sichergestellt, dass alle etwas beitragen können. Bei Bedarf kann sich der Co-Pilot Unterstützung aus dem Publikum holen, so dass immer etwas zu tun ist und niemand stecken bleibt. Siehe dazu auch z.B. [Coding Dojo 101](https://humberto.io/blog/coding-dojo-101/).
+
+## Das Ziel eines Dojos ist ja, Spaß zu haben und am Ende etwas neues gelernt zu haben.
+
+## pub_date: 2023-12-05
+
+## title: pyGRAZ Website-Umstellung
+
+twitter_handle: roskakori
